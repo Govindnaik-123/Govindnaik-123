@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Govind Naik!
 
-- 💻 I’m a **Computer Science Engineering Student** passionate about **Data Analytics, SQL, and Software Development**[cite: 1].
-- 🌱 Currently learning & honing skills in **MySQL, Query Optimization, Java (OOP), and GenAI Analytics**[cite: 1].
-- 💡 Fun Fact: I love translating raw, complex datasets into actionable business dashboards—and optimizing SQL queries until latency drops to near zero![cite: 1]
+- 💻 I’m a **Computer Science Engineering Student** passionate about **Data Analytics, SQL, and Software Development**
+- 🌱 Currently learning & honing skills in **MySQL, Query Optimization, Java (OOP), and GenAI Analytics**
+- 💡 Fun Fact: I love translating raw, complex datasets into actionable business dashboards—and optimizing SQL queries until latency drops to near zero!
 
 ---
 
@@ -24,9 +24,9 @@
 
 ## 💼 Virtual Internships & Experience
 
-- 🔹 **Deloitte** — Data Analytics Virtual Intern[cite: 1]
-- 🔹 **TATA Group** — Data Analytics Virtual Intern[cite: 1]
-- 🔹 **BCG (Boston Consulting Group)** — Business Analytics Simulation[cite: 1]
+- 🔹 **Deloitte** — Data Analytics Virtual Intern
+- 🔹 **TATA Group** — Data Analytics Virtual Intern
+- 🔹 **BCG (Boston Consulting Group)** — Business Analytics Simulation
 
 ---
 
@@ -40,8 +40,8 @@
 
 ---
 
-- 📊 **Pizza Sales Dashboard**: Built using **SQL Server** and **Tableau** to track revenue, orders, trends, and product performance[cite: 1].
-- 🗄️ **SQL Database Management System**: Relational database built in **SQLite** featuring query optimization techniques to boost retrieval performance[cite: 1].
+- 📊 **Pizza Sales Dashboard**: Built using **SQL Server** and **Tableau** to track revenue, orders, trends, and product performance
+- 🗄️ **SQL Database Management System**: Relational database built in **SQLite** featuring query optimization techniques to boost retrieval performance
 
 ---
 
@@ -54,6 +54,6 @@
 
 ## 📫 Connect with Me
 
-- ✉️ Email: [govindnaik343@gmail.com](mailto:gnaik_cse240516@mgit.ac.in)[cite: 1]
-- 🔗 LinkedIn: [Govind Naik](https://linkedin.com/in/govind-naik16)[cite: 1]
-- 📍 Location: Greater Hyderabad Area, India[cite: 1]
+- ✉️ Email: [govindnaik343@gmail.com](mailto:gnaik_cse240516@mgit.ac.in)
+- 🔗 LinkedIn: [Govind Naik](https://linkedin.com/in/govind-naik16)
+- 📍 Location: Greater Hyderabad Area, India
